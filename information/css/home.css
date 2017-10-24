@@ -1,0 +1,37 @@
+.middle{width: 100%;}
+#sec{width: 1170px; margin: 0 auto; position: relative;}
+#sec>ul{position: fixed; top: 100px; transition: .3s;}
+#sec>ul>li{width: 200px; text-align: right; height: 44px;}
+#sec>ul>li a{font-size: 18px; line-height: 24px;}
+section{width: 750px; margin-left: 250px;}
+#sec1{border-bottom:1px solid #e0e0e0; padding-bottom: 30px; padding-top: 100px; margin-top: -100px;}
+section h3{font-size: 20px; line-height: 60px; color: #000;}
+#sec1 h3 a{font-size: 14px; float: right; color: #0457b7;}
+#sec1 ul li{height: 30px;}
+#sec1 ul li a{float: left; line-height: 30px; color: #5e6267;}
+#sec1 ul li a:hover{color: #0457b7;}
+#sec1 ul li span{float: right; font-size: 12px; color: #999;}
+
+#sec2{border-bottom:1px solid #e0e0e0; padding-bottom: 30px; padding-top:70px; margin-top: -70px;}
+#sec2 div p,#sec2 div ul{float: left;}
+#sec2 div p{width: 100px; height: 56px; font-size: 20px; color: #000;}
+#sec2 div ul{width: 650px; border-bottom:1px solid #e0e0e0; padding-bottom: 15px;}
+#sec2 div ul li{font-size: 14px; color: #5e6267; height: 30px; line-height: 30px;}
+#sec2 div ul li span{font-size: 20px; padding-right: 15px;}
+
+#sec3{padding-bottom: 30px; padding-top:70px; margin-top: -70px;}
+.member{border-bottom:1px solid #e0e0e0; cursor: pointer;}
+.member p{height: 56px; line-height: 56px; font-size: 14px; color: #5e6267;}
+.member p span{font-size: 20px; color: #000; padding-right: 15px;}
+.member div{font-size: 14px; color: #5e6267; line-height: 30px; padding-bottom: 15px; display: none;}
+
+
+#sec4{padding-bottom: 30px; padding-top:70px; margin-top: -70px;}
+#tit{width: 100%; height: 44px;}
+#tit>span{float: right; width: 8px; height: 8px; display: block; border-radius: 4px; border: 1px solid #c4c4c4;
+ background: #c4c4c4; margin-left: 6px; margin-top: 17px; transition: .3s; cursor: pointer;}
+#con>li{display: none;}
+#tit span.select {background: #8e9396; width: 45px; transition: .3s;}
+#con li.show {display: block;}
+#con{border-bottom:1px solid #e0e0e0; padding-bottom: 15px;}
+#con li p{font-size: 14px; color: #5e6267; line-height: 30px;}

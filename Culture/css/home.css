@@ -1,0 +1,38 @@
+.middle{width: 100%;}
+#sec{width: 1170px; margin: 0 auto; position: relative;}
+#sec>ul{position: fixed; top: 100px; transition: .3s;}
+#sec>ul>li{width: 200px; text-align: right; height: 44px;}
+#sec>ul>li a{font-size: 18px; line-height: 24px;}
+section{width: 750px; margin-left: 250px;}
+
+section h2{font-size: 20px; line-height: 50px; color: #000;}
+#sec1{border-bottom:1px solid #e0e0e0; padding-bottom: 30px; padding-top: 100px; margin-top: -100px;}
+.Idea>div{width: 350px;float: left;}
+.Idea1,.Idea3{margin-right: 50px;}
+.Idea h3{font-size: 20px; line-height: 46px; color: #000; margin: 0;}
+.Idea h4{font-size: 16px; line-height: 28px; color: #666; margin: 0;}
+.Idea p{width: 350px; font-size: 12px; line-height: 24px; color: #666; margin: 0; overflow: hidden}
+.Idea span{width: 2px; height: 2px;  color: #000; margin-right: 7px;}
+
+#sec2{border-bottom:1px solid #e0e0e0; padding-bottom: 30px; padding-top: 50px; margin-top: -50px;}
+.personnel1 p:first-of-type{line-height: 30px; color: #666; font-size: 16px; margin-bottom: 20px;}
+.personnel1 p:last-of-type{line-height: 28px; color: #666; font-size: 14px;}
+.personnel1 p:first-of-type span{display: block; float: right; padding-right: 15px;}
+.personnel2 h4{font-size: 16px; line-height: 28px; color: #333; margin: 0;}
+.personnel2 p{line-height: 28px; color: #666; font-size: 14px;}
+.system>div{float: left; width: 350px;}
+.personnel3{margin-right: 50px;}
+.personnel3 h4{font-size: 16px; line-height: 28px; color: #333; margin: 0;}
+.personnel3 p{line-height: 28px; color: #666; font-size: 14px;}
+.personnel4 h4{font-size: 16px; line-height: 28px; color: #333; margin: 0;}
+.personnel4 p{line-height: 28px; color: #666; font-size: 14px;}
+
+#sec3{border-bottom:1px solid #e0e0e0; padding-bottom: 30px; padding-top: 50px; margin-top: -50px;}
+#sec3 h2 a{float: right; color: #0457b7;font-size: 16px;}
+#sec3 p{line-height: 28px; color: #666; font-size: 14px;}
+
+#sec4{padding-bottom: 30px; padding-top: 50px; margin-top: -50px;}
+.activity>div{width: 350px; float: left; margin-bottom: 20px;}
+.activity1,.activity3,.activity5,.activity7{margin-right: 50px;}
+.activity h4{font-size: 16px; line-height: 40px; color: #000; margin: 0;}
+.activity p{width: 350px; font-size: 14px; line-height: 24px; color: #666; margin: 0;}

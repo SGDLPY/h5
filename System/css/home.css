@@ -1,0 +1,57 @@
+.middle{width: 100%;}
+#sec{width: 1170px; margin: 0 auto; position: relative;}
+#sec>ul{position: fixed; top: 100px; transition: .3s;}
+#sec>ul>li{width: 200px; text-align: right; height: 44px;}
+#sec>ul>li a{font-size: 18px; line-height: 24px;}
+section{width: 750px; margin-left: 250px;}
+
+section h2{font-size: 20px; line-height: 50px; color: #000; }
+#sec1{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 100px; margin-top: -100px;}
+#sec2{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 50px; margin-top: -50px;}
+#sec3{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 50px; margin-top: -50px;}
+#sec4{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 50px; margin-top: -50px;}
+#sec5{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 50px; margin-top: -50px;}
+#sec6{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 50px; margin-top: -50px;}
+#sec7{border-bottom:1px solid #e0e0e0; padding-bottom: 20px; padding-top: 50px; margin-top: -50px;}
+section>div{margin-bottom: 25px;}
+section div h4{font-size: 16px; color: #000;}
+section div h4 a{font-size: 16px; color: #000;}
+section div p{font-size: 14px; color: #666; line-height: 28px; margin: 0; text-align: justify;}
+section div span{font-size: 14px; color: #999;}
+section div div{padding-left: 60px; height: 70px;}
+.QQ>div{background: url(../img/icon_qq.jpg) no-repeat left top;}
+.WeChat>div{background: url(../img/icon_wechat.jpg) no-repeat left top;}
+.Qzone>div{background: url(../img/icon_qzone.jpg) no-repeat left top;}
+.micro-blog>div{background: url(../img/icon_weibo.jpg) no-repeat left top;}
+.Money>div{background: url(../img/icon_pay.jpg) no-repeat left top;}
+.payment>div{background: url(../img/icon_wechat_pay.jpg) no-repeat left top;}
+.wallet>div{background: url(../img/icon_qq_pay.jpg) no-repeat left top;}
+.Wealth>div{background: url(../img/icon_qian.jpg) no-repeat left top;}
+.gold>div{background: url(../img/icon_wechat_gold.jpg) no-repeat left top;}
+.security>div{background: url(../img/icon_djr.jpg) no-repeat left top;}
+.Game>div{background: url(../img/icon_game.jpg) no-repeat left top;}
+.Pictures>div{background: url(../img/icon_movie.jpg) no-repeat left top;}
+.Comic>div{background: url(../img/icon_cartoon.jpg) no-repeat left top;}
+.Gaming>div{background: url(../img/icon_gaming.jpg) no-repeat left top;}
+.Read>div{background: url(../img/icon_article.jpg) no-repeat left top;}
+.Music>div{background: url(../img/icon_music.jpg) no-repeat left top;}
+.video>div{background: url(../img/icon_video.jpg) no-repeat left top;}
+.Music>div{background: url(../img/icon_music.jpg) no-repeat left top;}
+.Movies>div{background: url(../img/icon_qeys.jpg) no-repeat left top;}
+.Sports>div{background: url(../img/icon_sports.jpg) no-repeat left top;}
+.qqGaming>div{background: url(../img/icon_egame.jpg) no-repeat left top;}
+.Live>div{background: url(../img/icon_now.jpg) no-repeat left top;}
+.Tribe>div{background: url(../img/icon_qzone.jpg) no-repeat left top;}
+.wang>div{background: url(../img/icon_news.jpg) no-repeat left top;}
+.News>div{background: url(../img/icon_news.jpg) no-repeat left top;}
+.kuaibao>div{background: url(../img/icon_kb.jpg) no-repeat left top;}
+.yingyong>div{background: url(../img/icon_appstore.jpg) no-repeat left top;}
+.QQliulanqi>div{background: url(../img/icon_browser.jpg) no-repeat left top;}
+.Sguanjia>div{background: url(../img/icon_manager_2.jpg) no-repeat left top;}
+.Dguanjia>div{background: url(../img/icon_manager.jpg) no-repeat left top;}
+.Map>div{background: url(../img/icon_map.jpg) no-repeat left top;}
+.Email>div{background: url(../img/icon_mail.jpg) no-repeat left top;}
+.shares>div{background: url(../img/icon_zxg.jpg) no-repeat left top;}
+.pingtai >div{background: url(../img/icon_open.jpg) no-repeat left top;}
+.yun>div{background: url(../img/icon_cloud.jpg) no-repeat left top;}
+.ai>div{background: url(../img/icon_ai.jpg) no-repeat left top;}
